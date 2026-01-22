@@ -1,12 +1,12 @@
 # My Course Portfolio
  
-Welcome to my academic portfolio for (put your course name and section here)!
+Welcome to my academic portfolio for (CEP146-NCC)!
  
 ## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
-- Favorite Programming Language: (put your choice here)
+- Name: (Taire Tavares)
+- Program: (CPP)
+- Year: (2026, Semester1)
+- Favorite Programming Language: (Python)
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
